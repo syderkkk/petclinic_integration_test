@@ -16,3 +16,4 @@ Este proyecto implementa CI/CD usando GitHub Actions en lugar de Jenkins.
 - Configuración más simple (YAML vs Groovy)
 - Gratis para repositorios públicos
 - Integración nativa con GitHub
+- 
